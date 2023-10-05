@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Singh Ghugtyal </h1>
-<h3 align="center">Data Engineer / Software developer from India</h3>
+<h3 align="center">Data Engineer / Software Developer from India</h3>
 
 <img align="right" alt= "coding" width="400" src= "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4730omr4l3unlkkra7e53ierq0gugw9c43uybp4mlc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
