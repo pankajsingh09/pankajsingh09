@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsingh09&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsingh09" /> </p>
 
-- 🌱 I’m currently learning **Big Data technologies like Pyspark, Azure, AWS, Airflow, Hadoop, etc.**
+- 🌱 I’m currently working on **Big Data technologies like Python, SQL, Pyspark, Azure Data Factory, Databricks, Azure Synapse Analytics, Data Lake, ETL, etc.**
 
 - 💬 Ask me about **Python, Pyspark, Azure Data Factory, Azure Databricks, Azure Data Lakes, AWS, Java, Big Data**
 
